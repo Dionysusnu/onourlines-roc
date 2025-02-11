@@ -54,6 +54,10 @@
 			"name": "Rotherham 2",
 			"neighbours": [
 				{
+					"simId": "sheffieldexe",
+					"panelId": "taptonjn"
+				},
+				{
 					"simId": "sheffield",
 					"panelId": "rotherham1"
 				},

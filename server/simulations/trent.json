@@ -1,0 +1,159 @@
+{
+	"name": "Trent PSB",
+	"panels": [
+		{
+			"id": "claycross",
+			"name": "Clay Cross panel",
+			"neighbours": [
+				{
+					"simId": "sheffieldexe",
+					"panelId": "taptonjn"
+				},
+				{
+					"simId": "derby",
+					"panelId": "north"
+				}
+			]
+		},
+		{
+			"id": "erewashvalley",
+			"name": "Erewash Valley panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "claycross"
+				},
+				{
+					"simId": "trent",
+					"panelId": "pinxton"
+				},
+				{
+					"simId": "trent",
+					"panelId": "nottingham"
+				},
+				{
+					"simId": "trent",
+					"panelId": "stapleford"
+				}
+			]
+		},
+		{
+			"id": "pinxton",
+			"name": "Pinxton SB & Sleights East SB",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "erewashvalley"
+				},
+				{
+					"simId": "trent",
+					"panelId": "kirkbysummit"
+				}
+			]
+		},
+		{
+			"id": "kirkbysummit",
+			"name": "Kirkby Summit SB",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "pinxton"
+				},
+				{
+					"simId": "trent",
+					"panelId": "robinhood"
+				},
+				{
+					"simId": "worksop",
+					"panelId": "shirebrookjn"
+				}
+			]
+		},
+		{
+			"id": "robinhood",
+			"name": "Robin Hood line panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "kirkbysummit"
+				},
+				{
+					"simId": "trent",
+					"panelId": "nottingham"
+				}
+			]
+		},
+		{
+			"id": "nottingham",
+			"name": "Nottingham panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "robinhood"
+				},
+				{
+					"simId": "trent",
+					"panelId": "erewashvalley"
+				},
+				{
+					"simId": "trent",
+					"panelId": "eastnottingham"
+				},
+				{
+					"simId": "trent",
+					"panelId": "trent"
+				}
+			]
+		},
+		{
+			"id": "eastnottingham",
+			"name": "East Nottinghamshire panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "nottingham"
+				},
+				{
+					"simId": "doncastersouth",
+					"panelId": "nottingham"
+				}
+			]
+		},
+		{
+			"id": "trent",
+			"name": "Trent panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "nottingham"
+				},
+				{
+					"simId": "trent",
+					"panelId": "stapleford"
+				},
+				{
+					"simId": "derby",
+					"panelId": "west"
+				},
+				{
+					"simId": "derby",
+					"panelId": "centre"
+				}
+			]
+		},
+		{
+			"id": "stapleford",
+			"name": "Stapleford & Sandiacre panel",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "trent"
+				},
+				{
+					"simId": "trent",
+					"panelId": "erewashvalley"
+				}
+			]
+		}
+	]
+}

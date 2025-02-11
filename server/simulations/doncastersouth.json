@@ -38,6 +38,10 @@
 					"panelId": "panel1n"
 				},
 				{
+					"simId": "trent",
+					"panelId": "eastnottingham"
+				},
+				{
 					"simId": "peterborough",
 					"panelId": "helpstonstoke"
 				}
