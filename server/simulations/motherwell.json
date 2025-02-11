@@ -28,6 +28,10 @@
 					"panelId": "duty2"
 				},
 				{
+					"simId": "yoker",
+					"panelId": "wks2"
+				},
+				{
 					"simId": "motherwell",
 					"panelId": "wks3"
 				}

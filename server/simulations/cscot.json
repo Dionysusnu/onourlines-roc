@@ -8,6 +8,10 @@
 				{
 					"simId": "cscot",
 					"panelId": "duty2"
+				},
+				{
+					"simId": "yoker",
+					"panelId": "wks1"
 				}
 			]
 		},

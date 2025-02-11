@@ -74,6 +74,10 @@
 					"panelId": "deansgatejn"
 				},
 				{
+					"simId": "peakdistrict",
+					"panelId": "hazelgrove"
+				},
+				{
 					"simId": "stockport",
 					"panelId": "edgeley1"
 				}

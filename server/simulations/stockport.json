@@ -14,6 +14,10 @@
 					"panelId": "manchestersouthscc"
 				},
 				{
+					"simId": "peakdistrict",
+					"panelId": "hazelgrove"
+				},
+				{
 					"simId": "stockport",
 					"panelId": "edgeley2"
 				}

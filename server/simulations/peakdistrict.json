@@ -1,0 +1,157 @@
+{
+	"name": "Peak District",
+	"panels": [
+		{
+			"id": "hazelgrove",
+			"name": "Hazel Grove SB",
+			"neighbours": [
+				{
+					"simId": "stockport",
+					"panelId": "edgeley1"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "furnessvale"
+				},
+				{
+					"simId": "cheshirelines",
+					"panelId": "northendenjn"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "newmillssouthjn"
+				}
+			]
+		},
+		{
+			"id": "newmillscentral",
+			"name": "New Mills Central SB",
+			"neighbours": [
+				{
+					"simId": "manchestereast",
+					"panelId": "romileyjn"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "newmillssouthjn"
+				}
+			]
+		},
+		{
+			"id": "newmillssouthjn",
+			"name": "New Mills South Jn SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "newmillscentral"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "hazelgrove"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "chinley"
+				}
+			]
+		},
+		{
+			"id": "chinley",
+			"name": "Chinley SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "newmillssouthjn"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "edale"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "peakforestsouth"
+				}
+			]
+		},
+		{
+			"id": "edale",
+			"name": "Edale SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "chinley"
+				}
+			]
+		},
+		{
+			"id": "peakforestsouth",
+			"name": "Peak Forest South SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "chinley"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "greatrocksjn"
+				}
+			]
+		},
+		{
+			"id": "greatrocksjn",
+			"name": "Great Rocks Junction SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "peakforestsouth"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "buxton"
+				}
+			]
+		},
+		{
+			"id": "furnessvale",
+			"name": "Furness Vale SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "hazelgrove"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "chapelenlefrith"
+				}
+			]
+		},
+		{
+			"id": "chapelenlefrith",
+			"name": "Chapel-en-le-Frith SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "furnessvale"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "buxton"
+				}
+			]
+		},
+		{
+			"id": "buxton",
+			"name": "Buxton SB",
+			"neighbours": [
+				{
+					"simId": "peakdistrict",
+					"panelId": "chapelenlefrith"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "greatrocksjn"
+				}
+			]
+		}
+	]
+}
