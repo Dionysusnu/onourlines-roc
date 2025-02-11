@@ -80,6 +80,10 @@
 				{
 					"simId": "peakdistrict",
 					"panelId": "chinley"
+				},
+				{
+					"simId": "sheffieldexe",
+					"panelId": "earlessidings"
 				}
 			]
 		},

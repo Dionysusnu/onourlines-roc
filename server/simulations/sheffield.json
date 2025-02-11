@@ -6,6 +6,14 @@
 			"name": "Sheffield",
 			"neighbours": [
 				{
+					"simId": "sheffieldexe",
+					"panelId": "taptonjn"
+				},
+				{
+					"simId": "sheffieldexe",
+					"panelId": "totleytunneleast"
+				},
+				{
 					"simId": "sheffield",
 					"panelId": "woodburnjn"
 				},

@@ -1,0 +1,61 @@
+{
+	"name": "Sheffield Exe (placeholder for gaps to Sheffield ROC)",
+	"panels": [
+		{
+			"id": "taptonjn",
+			"name": "Tapton Jn",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "claycross"
+				},
+				{
+					"simId": "sheffield",
+					"panelId": "sheffield"
+				}
+			]
+		},
+		{
+			"id": "totleytunneleast",
+			"name": "Totley Tunnel East SB",
+			"neighbours": [
+				{
+					"simId": "sheffield",
+					"panelId": "sheffield"
+				},
+				{
+					"simId": "sheffieldexe",
+					"panelId": "grindleford"
+				}
+			]
+		},
+		{
+			"id": "grindleford",
+			"name": "Grindleford SB",
+			"neighbours": [
+				{
+					"simId": "sheffieldexe",
+					"panelId": "totleytunneleast"
+				},
+				{
+					"simId": "sheffieldexe",
+					"panelId": "earlessidings"
+				}
+			]
+		},
+		{
+			"id": "earlessidings",
+			"name": "Earles Sidings SB",
+			"neighbours": [
+				{
+					"simId": "sheffieldexe",
+					"panelId": "grindleford"
+				},
+				{
+					"simId": "peakdistrict",
+					"panelId": "edale"
+				}
+			]
+		}
+	]
+}
