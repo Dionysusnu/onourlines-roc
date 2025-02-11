@@ -6,6 +6,10 @@
 			"name": "Basingstoke",
 			"neighbours": [
 				{
+					"simId": "eastleigh",
+					"panelId": "panel1"
+				},
+				{
 					"simId": "salisbury",
 					"panelId": "salisbury"
 				},

@@ -12,6 +12,10 @@
 				{
 					"simId": "basingstoke",
 					"panelId": "basingstoke"
+				},
+				{
+					"simId": "eastleigh",
+					"panelId": "panel3"
 				}
 			]
 		}
