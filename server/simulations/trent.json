@@ -132,6 +132,10 @@
 					"panelId": "stapleford"
 				},
 				{
+					"simId": "leicester",
+					"panelId": "north"
+				},
+				{
 					"simId": "derby",
 					"panelId": "west"
 				},

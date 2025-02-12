@@ -66,6 +66,10 @@
 					"panelId": "newengland"
 				},
 				{
+					"simId": "leicester",
+					"panelId": "uffington"
+				},
+				{
 					"simId": "doncastersouth",
 					"panelId": "panel1s"
 				}

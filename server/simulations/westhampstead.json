@@ -50,6 +50,10 @@
 				{
 					"simId": "westhampstead",
 					"panelId": "panel3"
+				},
+				{
+					"simId": "leicester",
+					"panelId": "south"
 				}
 			]
 		}
