@@ -146,6 +146,10 @@
 					"panelId": "panel10a"
 				},
 				{
+					"simId": "eastkent",
+					"panelId": "wks1"
+				},
+				{
 					"simId": "maideast",
 					"panelId": "maidstoneeast"
 				}

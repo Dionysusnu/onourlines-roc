@@ -26,6 +26,10 @@
 				{
 					"simId": "northkent",
 					"panelId": "northkent1"
+				},
+				{
+					"simId": "eastkent",
+					"panelId": "wks1"
 				}
 			]
 		}
