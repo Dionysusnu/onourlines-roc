@@ -10,6 +10,10 @@
 					"panelId": "panela"
 				},
 				{
+					"simId": "westofengland",
+					"panelId": "gillingham"
+				},
+				{
 					"simId": "basingstoke",
 					"panelId": "basingstoke"
 				},

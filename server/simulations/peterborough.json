@@ -38,6 +38,10 @@
 					"panelId": "barfordstilton"
 				},
 				{
+					"simId": "cambridge",
+					"panelId": "march"
+				},
+				{
 					"simId": "peterborough",
 					"panelId": "newengland"
 				}
@@ -54,6 +58,10 @@
 				{
 					"simId": "peterborough",
 					"panelId": "helpstonstoke"
+				},
+				{
+					"simId": "lincoln",
+					"panelId": "south"
 				}
 			]
 		},
