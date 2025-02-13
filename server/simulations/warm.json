@@ -24,6 +24,14 @@
 					"panelId": "hackney"
 				},
 				{
+					"simId": "nll",
+					"panelId": "stratford"
+				},
+				{
+					"simId": "nll",
+					"panelId": "southtottenham"
+				},
+				{
 					"simId": "warm",
 					"panelId": "harlow"
 				}
