@@ -24,6 +24,10 @@
 					"panelId": "duty1"
 				},
 				{
+					"simId": "yoker",
+					"panelId": "wks2"
+				},
+				{
 					"simId": "cscot",
 					"panelId": "dutygj"
 				},
