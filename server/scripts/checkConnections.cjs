@@ -44,8 +44,11 @@ for (const [id, sim] of Object.entries(simulations)) {
 				console.error(`${id}.${panel.id} refers to non-existent panel ${neighbour.simId}.${neighbour.panelId}`);
 				continue;
 			}
-			if (countLinks(neighbourPanel, id, panel.id) !== 1) {
+			const linkCount = countLinks(neighbourPanel, id, panel.id);
+			if (linkCount === 0) {
 				console.error(`${neighbour.simId}.${neighbour.panelId} does not link back to ${id}.${panel.id}`);
+			} else if (linkCount > 1) {
+				console.error(`${neighbour.simId}.${neighbour.panelId} has a double link to ${id}.${panel.id}`);
 			}
 		}
 	}
