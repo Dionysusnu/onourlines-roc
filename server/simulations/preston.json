@@ -54,6 +54,10 @@
 					"panelId": "panelb"
 				},
 				{
+					"simId": "preston",
+					"panelId": "midgehall"
+				},
+				{
 					"simId": "blackpool",
 					"panelId": "blackpool"
 				},

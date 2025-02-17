@@ -149,15 +149,11 @@
 			"neighbours": [
 				{
 					"simId": "leicester",
-					"panelId": "south"
+					"panelId": "langhamjn"
 				},
 				{
 					"simId": "leicester",
-					"panelId": "ketton"
-				},
-				{
-					"simId": "leicester",
-					"panelId": "oakham"
+					"panelId": "mantonjn"
 				}
 			]
 		},

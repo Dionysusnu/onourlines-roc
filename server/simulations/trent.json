@@ -10,6 +10,10 @@
 					"panelId": "taptonjn"
 				},
 				{
+					"simId": "trent",
+					"panelId": "erewashvalley"
+				},
+				{
 					"simId": "derby",
 					"panelId": "north"
 				}
@@ -114,8 +118,8 @@
 					"panelId": "nottingham"
 				},
 				{
-					"simId": "doncastersouth",
-					"panelId": "nottingham"
+					"simId": "lincoln",
+					"panelId": "allington"
 				}
 			]
 		},
