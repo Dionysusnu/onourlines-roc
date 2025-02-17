@@ -76,6 +76,10 @@
 					"panelId": "north"
 				},
 				{
+					"simId": "aston",
+					"panelId": "aston"
+				},
+				{
 					"simId": "newstreet",
 					"panelId": "south1"
 				},
