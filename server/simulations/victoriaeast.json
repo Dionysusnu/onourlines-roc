@@ -132,6 +132,10 @@
 					"panelId": "panel9"
 				},
 				{
+					"simId": "tonbridge",
+					"panelId": "wks1"
+				},
+				{
 					"simId": "victoriaeast",
 					"panelId": "panel10b"
 				}
@@ -152,6 +156,10 @@
 				{
 					"simId": "maideast",
 					"panelId": "maidstoneeast"
+				},
+				{
+					"simId": "tonbridge",
+					"panelId": "wks1"
 				}
 			]
 		}

@@ -10,6 +10,10 @@
 					"panelId": "wa"
 				},
 				{
+					"simId": "nll",
+					"panelId": "eastern"
+				},
+				{
 					"simId": "warm",
 					"panelId": "brimsdown"
 				}
@@ -44,6 +48,10 @@
 				{
 					"simId": "warm",
 					"panelId": "brimsdown"
+				},
+				{
+					"simId": "cambridge",
+					"panelId": "south"
 				}
 			]
 		}
