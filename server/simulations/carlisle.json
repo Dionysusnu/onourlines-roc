@@ -10,6 +10,10 @@
 					"panelId": "wks6"
 				},
 				{
+					"simId": "gsw",
+					"panelId": "dumfries"
+				},
+				{
 					"simId": "carlisle",
 					"panelId": "panelb"
 				}

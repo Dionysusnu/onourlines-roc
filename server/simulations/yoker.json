@@ -24,6 +24,14 @@
 					"panelId": "wks1"
 				},
 				{
+					"simId": "glasgow",
+					"panelId": "polmadie"
+				},
+				{
+					"simId": "glasgow",
+					"panelId": "shields"
+				},
+				{
 					"simId": "cscot",
 					"panelId": "duty2"
 				},
