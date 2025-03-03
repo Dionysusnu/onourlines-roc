@@ -6,7 +6,7 @@
 			"name": "Clay Cross panel",
 			"neighbours": [
 				{
-					"simId": "sheffieldexe",
+					"simId": "sheffieldouter",
 					"panelId": "taptonjn"
 				},
 				{

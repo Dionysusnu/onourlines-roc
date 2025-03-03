@@ -1,5 +1,5 @@
 {
-	"name": "Sheffield Exe (placeholder for gaps to Sheffield ROC)",
+	"name": "Sheffield Outer",
 	"panels": [
 		{
 			"id": "taptonjn",
@@ -28,7 +28,7 @@
 					"panelId": "sheffield"
 				},
 				{
-					"simId": "sheffieldexe",
+					"simId": "sheffieldouter",
 					"panelId": "grindleford"
 				}
 			]
@@ -38,11 +38,11 @@
 			"name": "Grindleford SB",
 			"neighbours": [
 				{
-					"simId": "sheffieldexe",
+					"simId": "sheffieldouter",
 					"panelId": "totleytunneleast"
 				},
 				{
-					"simId": "sheffieldexe",
+					"simId": "sheffieldouter",
 					"panelId": "earlessidings"
 				}
 			]
@@ -52,7 +52,7 @@
 			"name": "Earles Sidings SB",
 			"neighbours": [
 				{
-					"simId": "sheffieldexe",
+					"simId": "sheffieldouter",
 					"panelId": "grindleford"
 				},
 				{
