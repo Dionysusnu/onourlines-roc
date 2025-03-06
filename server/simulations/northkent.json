@@ -29,7 +29,11 @@
 				},
 				{
 					"simId": "eastkent",
-					"panelId": "wks1"
+					"panelId": "rochester"
+				},
+				{
+					"simId": "eastkent",
+					"panelId": "cuxton"
 				}
 			]
 		}
