@@ -2,11 +2,29 @@
 	"name": "Trent PSB",
 	"panels": [
 		{
+			"id": "taptonjn",
+			"name": "Tapton Jn",
+			"neighbours": [
+				{
+					"simId": "trent",
+					"panelId": "claycross"
+				},
+				{
+					"simId": "sheffield",
+					"panelId": "sheffield"
+				},
+				{
+					"simId": "sheffield",
+					"panelId": "rotherham2"
+				}
+			]
+		},
+		{
 			"id": "claycross",
 			"name": "Clay Cross panel",
 			"neighbours": [
 				{
-					"simId": "sheffieldouter",
+					"simId": "trent",
 					"panelId": "taptonjn"
 				},
 				{

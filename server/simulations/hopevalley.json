@@ -82,8 +82,50 @@
 					"panelId": "chinley"
 				},
 				{
-					"simId": "sheffieldouter",
+					"simId": "hopevalley",
 					"panelId": "earlessidings"
+				}
+			]
+		},
+		{
+			"id": "earlessidings",
+			"name": "Earles Sidings SB",
+			"neighbours": [
+				{
+					"simId": "hopevalley",
+					"panelId": "edale"
+				},
+				{
+					"simId": "hopevalley",
+					"panelId": "grindleford"
+				}
+			]
+		},
+		{
+			"id": "grindleford",
+			"name": "Grindleford SB",
+			"neighbours": [
+				{
+					"simId": "hopevalley",
+					"panelId": "earlessidings"
+				},
+				{
+					"simId": "hopevalley",
+					"panelId": "totleytunneleast"
+				}
+			]
+		},
+		{
+			"id": "totleytunneleast",
+			"name": "Totley Tunnel East SB",
+			"neighbours": [
+				{
+					"simId": "hopevalley",
+					"panelId": "grindleford"
+				},
+				{
+					"simId": "sheffield",
+					"panelId": "sheffield"
 				}
 			]
 		},

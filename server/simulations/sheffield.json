@@ -6,11 +6,11 @@
 			"name": "Sheffield",
 			"neighbours": [
 				{
-					"simId": "sheffieldouter",
+					"simId": "trent",
 					"panelId": "taptonjn"
 				},
 				{
-					"simId": "sheffieldouter",
+					"simId": "hopevalley",
 					"panelId": "totleytunneleast"
 				},
 				{
@@ -58,7 +58,7 @@
 			"name": "Rotherham 2",
 			"neighbours": [
 				{
-					"simId": "sheffieldouter",
+					"simId": "trent",
 					"panelId": "taptonjn"
 				},
 				{
