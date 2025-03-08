@@ -12,6 +12,10 @@
 				{
 					"simId": "westyorkshire",
 					"panelId": "ferrybridge"
+				},
+				{
+					"simId": "hull",
+					"panelId": "goolebridge"
 				}
 			]
 		},
