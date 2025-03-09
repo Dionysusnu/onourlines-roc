@@ -24,6 +24,10 @@
 					"panelId": "hounslow"
 				},
 				{
+					"simId": "paddington",
+					"panelId": "panel1"
+				},
+				{
 					"simId": "nll",
 					"panelId": "actoncanalwharf"
 				},
