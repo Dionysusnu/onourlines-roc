@@ -14,6 +14,10 @@
 					"panelId": "salisbury"
 				},
 				{
+					"simId": "reading",
+					"panelId": "reading"
+				},
+				{
 					"simId": "woking",
 					"panelId": "woking"
 				}
