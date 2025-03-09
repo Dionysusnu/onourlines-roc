@@ -147,13 +147,13 @@
 				},
 				{
 					"simId": "nll",
-					"panelId": "stratfordnll"
+					"panelId": "templemills"
 				}
 			]
 		},
 		{
-			"id": "stratfordnll",
-			"name": "Stratford NLL Workstation",
+			"id": "templemills",
+			"name": "Temple Mills Workstation",
 			"neighbours": [
 				{
 					"simId": "nll",
@@ -166,6 +166,14 @@
 				{
 					"simId": "warm",
 					"panelId": "brimsdown"
+				},
+				{
+					"simId": "nll",
+					"panelId": "southtottenham"
+				},
+				{
+					"simId": "lts",
+					"panelId": "london"
 				}
 			]
 		},
@@ -219,25 +227,7 @@
 				},
 				{
 					"simId": "nll",
-					"panelId": "woodgrangepark"
-				}
-			]
-		},
-		{
-			"id": "woodgrangepark",
-			"name": "Woodgrange Park Workstation",
-			"neighbours": [
-				{
-					"simId": "gemlsouth",
-					"panelId": "stratford"
-				},
-				{
-					"simId": "nll",
-					"panelId": "southtottenham"
-				},
-				{
-					"simId": "lts",
-					"panelId": "london"
+					"panelId": "templemills"
 				}
 			]
 		}
