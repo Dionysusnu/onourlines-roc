@@ -18,6 +18,10 @@
 					"panelId": "tilbury"
 				},
 				{
+					"simId": "gemlsouth",
+					"panelId": "ilford"
+				},
+				{
 					"simId": "lts",
 					"panelId": "southend"
 				}
